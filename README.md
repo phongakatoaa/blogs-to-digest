@@ -4,6 +4,7 @@ https://codewithoutrules.com/
 # Resources
 https://github.com/ramitsurana/awesome-kubernetes
 http://howtocenterincss.com/
+https://roadmap.sh/devops
 
 # Articles
 https://hackernoon.com/do-you-really-want-to-become-a-software-engineer-zlfi3736
